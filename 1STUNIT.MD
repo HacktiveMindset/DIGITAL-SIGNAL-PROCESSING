@@ -24,7 +24,7 @@
 * **Nyquist-Shannon Sampling Theorem:** States that a continuous-time signal can be perfectly reconstructed from its samples if the sampling frequency is at least twice the maximum frequency component of the signal.
 * **Aliasing:** The phenomenon that occurs when a signal is sampled at a frequency lower than the Nyquist rate, resulting in distortion of the reconstructed signal.
 
-[Image of a graph illustrating the Nyquist-Shannon sampling theorem]
+(box/Illustration-of-the-Nyquist-Shannon-sampling-theorem-If-sampling-at-a-frequency-that-is.png)
 
 ### A/D and D/A Conversion
 
