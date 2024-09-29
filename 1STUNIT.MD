@@ -17,7 +17,7 @@
 * **Digital Signal Processor (DSP):** Performs the actual processing of the digital signal.
 * **Digital-to-Analog Converter (DAC):** Converts digital signals back into analog signals (if necessary).
 
-![Block Diagram of a DSP System](box/Digital Signal Processing(DSP) Block Diagram.png)
+![Block Diagram of a DSP System](box/DigitalSignalProcessing(DSP)BlockDiagram.png)
 
 ### Sampling Theorem
 
