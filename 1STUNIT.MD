@@ -9,7 +9,7 @@
     * Reliability: Less susceptible to noise and interference compared to analog systems.
     * Cost-effectiveness: Can be implemented using low-cost microcontrollers and DSP chips.
 
-[https://www.researchgate.net/profile/Marwan-Al-Yoonus/publication/334899069/figure/fig1/AS:787543591251968@1564776432230/Block-Diagram-of-a-DSP-System.ppm]
+![Block Diagram of a DSP System](https://www.researchgate.net/profile/Marwan-Al-Yoonus/publication/334899069/figure/fig1/AS:787543591251968@1564776432230/Block-Diagram-of-a-DSP-System.ppm)
 
 ### Basic Elements of a DSP System
 
